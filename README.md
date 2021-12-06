@@ -1,27 +1,37 @@
-<div> 
-<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
 <div align="center">
-<a href="https://github.com/daavipc">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daavipc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavipc&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<div> 
+<a href="https://instagram.com/cncdavi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:perrier.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
 
 
+<a href="https://github.com/daavipc">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daavipc&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavipc&layout=compact&langs_count=7&theme=dark"/>
+</a>
+<div style="display: inline_block"><br>
+
+<img align="center" height="" width="" src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" height="" width="" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" height="" width="" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" height="" width="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
+<img align="center" height="" width="" src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" height="" width="" src="https://img.shields.io/badge/C%2B%2B-323330?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" height="" width="" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+##
+
+<img align="center" width="100" src="https://i.imgur.com/5FfnQ6p.png">
+
+
+
+
+</div>
+
+</div>
+
+![68747470733a2f2f692e696d6775722e636f6d2f3546666e5136702e706e67](https://user-images.githubusercontent.com/80406029/144902232-c360d310-e083-4e1c-8e8e-c8ed780dd03d.png)
