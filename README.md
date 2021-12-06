@@ -25,13 +25,10 @@
 
 ##
 
-<img align="center" width="100" src="https://i.imgur.com/5FfnQ6p.png">
-
+<img align="center" width="100" src="https://i.imgur.com/4EfUCPC.png">
 
 
 
 </div>
 
 </div>
-
-![68747470733a2f2f692e696d6775722e636f6d2f3546666e5136702e706e67](https://user-images.githubusercontent.com/80406029/144902232-c360d310-e083-4e1c-8e8e-c8ed780dd03d.png)
