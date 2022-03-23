@@ -25,7 +25,7 @@
 
 ##
 
-<img align="center" width="100" src="https://i.imgur.com/4EfUCPC.png">
+<img align="center" width="100" src="https://i.imgur.com/KAuas4c.png">
 
 
 
