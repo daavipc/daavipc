@@ -1,5 +1,5 @@
 <div align="center">
-  <i>I share open source projects in development or finished.<br><strong>For contact, go to:</strong></i>
+  <i>I share open source projects in development or finished.<br><strong>For contact go to:</strong></i>
     <br><br>
   <a href = "mailto:eu@daviperrier.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
